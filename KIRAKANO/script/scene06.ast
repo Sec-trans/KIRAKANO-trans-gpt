@@ -1,0 +1,15 @@
+astver = 2.0
+astname = "ast"
+ast = {
+block_00000={
+{"bg",time=0,file="black",path=":bg/"},
+{"selback",file="scene"},
+{"msg",no=1},
+{"excall",file="ex02",label="scene"},
+{"text"},
+},
+label = {
+scene={block="block_00000",label=1},
+top={block="block_00000",label=1},
+},
+}
